@@ -35,6 +35,8 @@ matrix:
       env: GTEPHPFIVEFOUR=1 SNIFF=1
     - php: '7.2'
       env: GTEPHPFIVEFOUR=1
+    - php: '7.3'
+      env: GTEPHPFIVEFOUR=1
     - php: 'nightly'
       env: GTEPHPFIVEFOUR=1
 
